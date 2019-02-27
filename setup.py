@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="doc_trans",
-    version="0.0.1a",
+    version="0.0.1c",
     author="sergey-sy",
     author_email="maiyashik@gmail.com",
     description="Translate documentation from Python objects",

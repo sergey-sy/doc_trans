@@ -10,4 +10,4 @@ def test_function():
     """  
 
 if __name__ == '__main__':
-    print(rus_help(test_function))
+    print(rus_help(input("Input func/method/class name to translate:\n")))
